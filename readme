@@ -1,0 +1,39 @@
+# Minha primeira página em HTML
+
+Essa foi a minha primeira aula de ADS, e a gente começou aprendendo os primeiros comandos de HTML. No começo parecia tudo meio estranho, mas foi bem interessante ver que, com algumas tags, já dá para montar uma página simples no navegador.
+
+A atividade foi criar uma página com algumas coisas básicas, como título, texto, imagem e um pouco de organização. Foi bem simples, mas foi o começo de entender como uma página web é estruturada.
+
+## O que eu aprendi
+A gente viu algumas tags importantes, como:
+
+- `<!DOCTYPE html>` para indicar que o documento é HTML
+- `<html>` para abrir a página
+- `<head>` para colocar informações da página
+- `<meta charset="UTF-8">` para aceitar acentos
+- `<title>` para definir o título da aba
+- `<body>` para colocar o conteúdo visível
+- `<h1>` e `<h2>` para títulos
+- `<p>` para texto
+- `<b>` para deixar o texto em negrito
+- `<img>` para inserir uma imagem
+
+## Estrutura básica
+A estrutura que a gente usou foi mais ou menos assim:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Minha página</title>
+  </head>
+  <body>
+    <h1>Minha página</h1>
+    <p>Primeiros comandos HTML</p>
+    <b>Texto em negrito</b>
+    <img src="logo.jfif" alt="Logo da página">
+  </body>
+</html>
+```
+
