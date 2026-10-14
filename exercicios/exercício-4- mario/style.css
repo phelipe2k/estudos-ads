@@ -1,0 +1,79 @@
+        
+         .titulo{
+            color: rgb(248, 246, 246); font-size: 20px;}
+            
+            p {color: rgb(9, 20, 9); font-size: 15px; font-style: italic;
+             text-align: justify;
+             text-transform: uppercase;
+             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            border: 1px solid black; padding: 10px; background-color: rgb(255, 255, 255);
+             border-radius: 5px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+             border-color: rgb(0, 0, 0);  
+             text-align: center;
+             margin: 20px;
+             padding: 10px;
+             border: 1px solid black; 
+             text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+             text-decoration: solid underline;
+        }
+            b {color: rgb(0, 0, 0); font-size: 15px;}
+            li {color: blue; font-size: 10px;}
+            .supertitulo {color: rgb(247, 245, 245); font-size: 15px; 
+                        text-decoration: underline; 
+                        text-align: center;    
+        }
+            #tituloprincipal {color: rgb(248, 244, 244); font-size: 15px; 
+                        text-decoration: underline;
+                        font-weight: bold;
+                        font-style: italic;
+                        text-align: center;    
+        }
+
+        body {
+            background-image: url("imagens/uninter.png");
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+        }
+        .caixa{
+            font-family: Arial, sans-serif;
+            font-size: 22px;
+            TEXT-ALIGN: center;
+            color: white;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid black;
+            background-color: rgba(116, 34, 34, 0.8);
+            align-items: center;
+        }
+
+        .lista {
+            color: white;
+            font-size: 25px;
+            margin-bottom: 10px;
+            padding: 5px;
+            border: 1px solid rgb(255, 255, 255);
+            background-color: rgba(116, 34, 34, 0.8);
+            width: 300px;
+            text-align: center;
+            color: white;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            text-decoration: solid underline;
+            text-decoration-color: white;
+            align-items: center;
+        }
+        h1 {
+            color: white;
+            font-size: 30px;
+            text-align: center;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid black;
+            background-color: rgba(116, 34, 34, 0.8);
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+            text-decoration: solid underline;
+            text-decoration-color: white;
+            align-items: center;
+        }

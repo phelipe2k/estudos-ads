@@ -1,0 +1,18 @@
+.imagem{
+    background: url("https://th.bing.com/th/id/R.bfda44723286e934b7eb78dd8523a0bc?rik=gGVez1vlX%2fqDgA&pid=ImgRaw&r=0") no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+    display: block;
+    
+
+}
+
+.imagem:hover{
+    background-position: 0px 50px;
+    
+}
+
+.imagem:active{
+    background-position: 50px 50px;
+}

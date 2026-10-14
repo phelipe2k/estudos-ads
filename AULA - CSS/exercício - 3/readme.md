@@ -1,0 +1,1 @@
+crie uma lista com marcadores personalizados e uma cor de fundo diferente para itens em posições pares e impares
