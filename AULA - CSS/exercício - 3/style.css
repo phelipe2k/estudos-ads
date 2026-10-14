@@ -1,5 +1,13 @@
 .alternada{
     list-style: upper-alpha;
     font-size: 30px;
+    width: fit-content;
+    background-color: bisque;
+    text-align: center;
     color: indigo;
+}
+
+.alternada li:nth-child(odd){
+    background-color: lightblue;
+    color: darkblue;
 }
