@@ -11,3 +11,24 @@
     background-color: lightblue;
     color: darkblue;
 }
+
+.alternada li:nth-child(even){
+    background-color:burlywood;
+    color: darkred;
+}
+
+.alternada li:hover{
+    background-color: lightgreen;
+    color: darkgreen;
+    font-weight: bolder;
+    float: right;
+    font-size: 40px;
+}
+
+.alternada li:nth-child(odd):hover{
+    background-color: lightcoral;
+    color: darkred;
+    font-weight: bolder;
+    float: right;
+    font-size: 40px;
+}
