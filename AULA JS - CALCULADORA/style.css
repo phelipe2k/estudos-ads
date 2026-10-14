@@ -36,3 +36,10 @@ input{
     border-radius: 4px;
     
 }
+
+.problema{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
