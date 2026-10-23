@@ -1,0 +1,19 @@
+# Minha primeira página em HTML
+
+<img src="logo.jfif" alt="Logo da página" width="150">
+
+Este projeto reúne meus primeiros exercícios em HTML e serve como um caderno de estudo para a disciplina de ADS. A ideia é praticar a estrutura de páginas, a organização do conteúdo e o uso das principais tags.
+
+## Objetivo
+- aprender a montar páginas em HTML de forma organizada;
+- revisar elementos de formatação, links, imagens e tabelas;
+- consolidar o conhecimento por meio de exercícios práticos.
+
+## Exercícios
+- [Exercício 1 — Formulário](exercicios/exercicio-01-formulario/index.html): pratiquei campos de texto, e-mail, opções, caixa de seleção, data, observações e envio.
+- [Exercício 2 — Tabela de gatos e cachorros](<exercicios/exercício-03-tabela com imagens/tabelaAnimais.html>): organizei os animais em duas colunas e três linhas, usando cada imagem como link.
+- [Exercício 3 — Tabela com células mescladas](exercicios/exercicio-02-tabela/index.html): aprendi a criar linhas com diferentes quantidades de colunas usando `colspan`.
+- [Exercício 4 — Página sobre Mario](<exercicios/exercício-4/pagina.html>): desenvolvi uma página com títulos, parágrafos, listas, imagem e link externo.
+
+Com a prática, vou aprimorando a escolha das tags certas e a forma de estruturar melhor cada página.
+
