@@ -14,3 +14,9 @@ Este repositório reúne materiais de estudo e exercícios práticos da discipli
 - [Exercício 4 — Página sobre Mario](<MEUSITE/exercicios/exercício-4/pagina.html>): desenvolvi uma página com títulos, parágrafos, listas, imagem e link externo.
 
 Esses exercícios ajudam a compreender melhor as tags HTML e a organizar o conteúdo de forma clara e funcional.
+
+## Lógica de Programação e Algoritmos
+- [Material da Aula 1 (PDF)](LÓGICA/LPA_Aula1.pdf)
+- [Slides da Aula 1 (PDF)](LÓGICA/slides_Aula1.pdf)
+- [Primeiro código](LÓGICA/AULA2/primeirocodigo.py)
+- [Exercício de identificação e nota](LÓGICA/AULA2/1/1.py)
